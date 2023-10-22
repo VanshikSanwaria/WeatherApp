@@ -1,6 +1,6 @@
 # WeatherApp
 Weather Forecast using Web Development
-![weather-app](https://github.com/VanshikSanwaria/WeatherApp/assets/144238013/3fc32cfb-ec1b-4c47-9e1c-70f6168f09f8)
+![weather-app](https://github.com/VanshikSanwaria/WeatherApp/assets/144238013/16b9ae80-8754-4761-998c-0d8a8c3fd8a7)
 
 # simple-weather-website
 
